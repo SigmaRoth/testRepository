@@ -1,0 +1,10 @@
+<aiml version="2.0">
+
+<category><pattern>WHO IS YOUR DESIGNER</pattern><template>who am I</template></category>
+
+
+        
+<category><pattern>I CAN DO IT CAN T I</pattern><template>I can do</template></category>
+
+
+</aiml>
